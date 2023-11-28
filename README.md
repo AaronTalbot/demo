@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a README file. Feel free to customize it based on the specific details and features of your project.
 
 ---
 
@@ -56,7 +55,6 @@ project-root/
 │   │   │   └── com/
 │   │   │       └── example/
 │   │   │           ├── EntryFileProcessorTest.java
-│   │   │           ├── OutcomeFileProcessorTest.java
 │   │   │           └── EntryFileReaderTest.java
 │   │   └── resources/
 │   │
@@ -79,9 +77,6 @@ The project includes JUnit tests to ensure the functionality of key components. 
 mvn test
 ```
 
-## Contributions
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 ## License
 
@@ -89,4 +84,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Adjust the sections and content based on your project's specific details and requirements.
